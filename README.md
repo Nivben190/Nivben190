@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Nice+To+Meet+You!+You+Are+Visitor+num)
 
-<!--
-**Nivben22/Nivben22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About me 🙋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * 🎒 I'm a Full-Stack Bootcamp Graduate.
+ *💚 I'm currently working on a C# Project.
+ * 📚 I'm Learned C#,Html&css,Js,MongoDb,Node.js&Express.
+ * 🎀 Pronouns:he/him/his
+ *🔥 Fun fact: I Love Training Dogs(since the age of 14).
+ *🤙 More about me: Linkedin Instagram Gmail
+
+
