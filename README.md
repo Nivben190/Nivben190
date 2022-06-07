@@ -60,7 +60,7 @@ width=30" >
         readonly string lastName = "Ben Aviv";
         readonly int age = 22;
         readonly string[] hobbies = { "Basketball", "Dogs Training", "Guitars", "Music" };
-        public string[] favoritesBokks = { "Rich Dad Poor Dad", "The Hunger Games" };
+        public string[] favoritesBooks = { "Rich Dad Poor Dad", "The Hunger Games" };
         public string GetCity() => "Nirit";
     }
 
