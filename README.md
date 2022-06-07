@@ -6,7 +6,7 @@
 
  * 🎒 I'm a Full-Stack Bootcamp Graduate.
  * 💚 I'm currently working on a C# Project.
- * 📚 I'm Learned C#,Html&css,Js,MongoDb,Node.js&Express.
+ * 📚 I have Learned C#,Html&css,Js,MongoDb,Node.js & Express.
  * 🎀 Pronouns:he/him/his
  * 🔥 Fun fact: I Love Training Dogs(since the age of 14).
 
