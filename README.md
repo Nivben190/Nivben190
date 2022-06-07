@@ -10,6 +10,9 @@
  * 🎀 Pronouns:he/him/his
  * 🔥 Fun fact: I Love Training Dogs(since the age of 14).
  * 🤙 More about me:
+ <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/Nivben22/Nivben22/main/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
 
 
 # Technical Skills
