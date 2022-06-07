@@ -3,13 +3,11 @@
 
 
 # About me 🙋
-
  * 🎒 I'm a Full-Stack Bootcamp Graduate.
  * 💚 I'm currently working on a C# Project.
  * 📚 I have Learned C#,Html&css,Js,MongoDb,Node.js & Express.
  * 🎀 Pronouns:he/him/his
  * 🔥 Fun fact: I Love Training Dogs(since the age of 14).
-
 
  ## Contact Me
 <a href="https://www.linkedin.com/in/niv-ben-aviv-b37b871b4/">
@@ -26,8 +24,7 @@ width=30" >
 <img alt="email" src="https://www.howtogeek.com/wp-content/uploads/2019/03/gmail-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1"
  width=50" height=30>
   </a>
-          
-
+        
 
 # Technical Skills
 
@@ -54,5 +51,22 @@ width=30" >
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivben22)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+# Extras 
+          
+   ```
+          Class Niv
+          {
+            string name = Niv;
+           string lastName = Ben Aviv;
+           hobbies={
+                 Basketball,Dogs Training, Guitars
+                   }
+                  
+          public void GetCity
+          {
+          return Nirit
+          }
+             
+          }
+   ```
 
