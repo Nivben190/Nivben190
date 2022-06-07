@@ -26,6 +26,7 @@ width=30" >
 <img alt="email" src="https://www.howtogeek.com/wp-content/uploads/2019/03/gmail-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1"
  width=50" height=30>
   </a>
+          
 
 
 # Technical Skills
