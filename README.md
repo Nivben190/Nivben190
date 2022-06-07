@@ -9,8 +9,17 @@
  * 📚 I'm Learned C#,Html&css,Js,MongoDb,Node.js&Express.
  * 🎀 Pronouns:he/him/his
  * 🔥 Fun fact: I Love Training Dogs(since the age of 14).
- * 🤙 More about me:
- <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/Nivben22/Nivben22/main/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
+ ## Contact Me
+<a href="https://www.linkedin.com/in/niv-ben-aviv-b37b871b4/">
+ <img alt="linkedin" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png?raw=true"
+width=30" >
+ </a>
+ <a href="https://www.instagram.com/niv.benaviv/">
+<img alt="Qries" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png?raw=true"
+ width=30">
+  </a>
 
 
 
