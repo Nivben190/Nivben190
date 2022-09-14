@@ -44,7 +44,7 @@ width=30" >
 
 
 # GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivben22&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivben190&show_icons=true&theme=radical)
 
 
 # Extras 
