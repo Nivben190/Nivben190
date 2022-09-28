@@ -1,8 +1,9 @@
 l
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=Nice+To+Meet+You!+You+Are+Visitor+num)
 
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" width="480" height="360" frameBorder="0" class="giphy-embed" >
+<div align='center'>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="480" height="360" frameBorder="0" class="giphy-embed" >
+</div>
 
 
 # About me 🙋
