@@ -2,6 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=Nice+To+Meet+You!+You+Are+Visitor+num)
 
 
+https://user-images.githubusercontent.com/96342824/192757878-5c38b759-c1c7-4367-91c7-8cdaa73d6bb3.mp4
+
+
+
 # About me 🙋
  * 🎒 I'm a Full-Stack Bootcamp Graduate.
  * 💚 I'm currently working on react-native expo project.
